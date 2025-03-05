@@ -2,7 +2,7 @@
 
 *Copyright © 2025, Austin Bravo*
 
-Permission is hereby granted to any person purchasing or receiving a copy of these files, including the code and documentation contained therein (the "Software"), to use and modify the Software as provided in accordance with a [**purchased license**](#).
+Permission is hereby granted to any person purchasing or receiving a copy of these files, including the code and documentation contained therein (the "Software"), to use and modify the Software as provided in accordance with a [**purchased license**](https://www.paypal.com/ncp/payment/328YACFEVSPDQ).
 
 This does not include the rights to publish, distribute, sublicense, and / or sell copies of the Software or products derived from or including it, except as within the bounds of the purchased license.
 
@@ -19,7 +19,7 @@ By using or modifying the Software, you are agreeing to the terms of this licens
 
 ## Licenses
 
-You may purchase the following licenses [**here**](#).
+You may purchase the following licenses [**here**](https://www.paypal.com/ncp/payment/328YACFEVSPDQ).
 
 *Bulk discount pricing is available for all of the following licenses - contact [austinbravo1@gmail.com](mailto:austinbravo1@gmail.com) for a quote.*
 

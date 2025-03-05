@@ -10,7 +10,7 @@ It overcomes common pitfalls of this functionality (e.g. preserving state on bac
 
 ## Purchase a License
 
-A license is required to use this plugin - you can view the full License Agreement as well as the available licensing options [**here**](#) and purchase a license [**here**](https://www.paypal.com/ncp/payment/328YACFEVSPDQ).
+A license is required to use this plugin - you can view the full License Agreement as well as the available licensing options [**here**](https://github.com/austinbravodev/nationbuilder_pagination_replacement?tab=License-1-ov-file#readme) and purchase a license [**here**](https://www.paypal.com/ncp/payment/328YACFEVSPDQ).
 
 ## Contact
 
@@ -31,13 +31,13 @@ For full-service installations, custom implementations, support, or feedback, ge
 Add the script before the closing `</body>` tag:
 
 ```html
-<script defer src="paginationReplacementPurify.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/gh/austinbravodev/nationbuilder_pagination_replacement/paginationReplacementPurify.min.js"></script>
 ```
 
 If you already use the [DOMPurify library](https://github.com/cure53/DOMPurify) on your site or will be using a different HTML sanitizer, you can use the version that does not bundle this library:
 
 ```html
-<script defer src="paginationReplacement.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/gh/austinbravodev/nationbuilder_pagination_replacement/paginationReplacement.min.js"></script>
 ```
 
 ### Initialization
