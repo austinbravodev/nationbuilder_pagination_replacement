@@ -1,3 +1,4 @@
 *.min.js linguist-detectable=true
 *.min.js linguist-vendored=false
 *.min.js linguist-language=Javascript
+* linguist-language=Javascript
